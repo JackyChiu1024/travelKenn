@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackyChiu1024/travelKenn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackyChiu1024/travelKenn/issues"
+  },
+  "homepage": "https://github.com/JackyChiu1024/travelKenn#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.1"
+  }
+}
